@@ -115,6 +115,7 @@ img {
 }
 .contacts-menu > .item{
   padding-right: 2px;
+   padding-left: 2px;
 }
 
 .contacts-menu .contact {
