@@ -113,6 +113,9 @@ img {
 .contacts-menu {
   margin-left: auto;
 }
+.contacts-menu .item{
+  padding-right: 30px;
+}
 
 .contacts-menu .contact {
   color: var(--slate);
